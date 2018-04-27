@@ -33,45 +33,45 @@ post '/form' do
     content = Content.new(type: 'text/html', 
     value: '<ul>
 	<li>Cookies:</li>
-	<li></li>
+	<br>
 	<li>Chocolate Chip // 12 cookies: $24</li>
-	<li></li>
+	<br>
 	<li>Red Velvet // 12 cookies: $24</li>
-	<li></li>
+	<br>
 	<li>Peanut Butter Chocolate Chip // 12 cookies: $24</li>
-	<li></li>
+	<br>
 	<li>Double Chocolate Chip // 12 cookies: $24</li>
-	<li></li>
+	<br>
 	<li>Oatmeal Raisin Cookie // 12 cookies: $24</li>
-	<li></li>
+	<br>
 	<li>Sugar Cookie  // 12 cookies: $24</li>
-	<li></li>
+	<br>
 	<li>Cakes:</li>
-	<li></li>
+	<br>
 	<li>Black Forest Cake // Whole: $65 // Slice: $8.50</li>
-	<li></li>
+	<br>
 	<li>Strawberry Cake // Whole: $65 // Slice: $8.50</li>
-	<li></li>
+	<br>
 	<li>Dads Chocolate Cake // Whole: $65 // Slice: $8.50</li>
-	<li></li>
+	<br>
 	<li>Cheesecake // Whole: $65 // Slice: $8.50</li>
-	<li></li>
+	<br>
 	<li>Tres Leches Cake // Whole: $65 // Slice: $8.50</li>
-	<li></li>
+	<br>
 	<li>Red Velvet Cake // Whole: $65 // Slice: $8.50</li>
-	<li></li>
+	<br>
 	<li>Muffins </li>
-	<li></li>
+	<br>
 	<li>Banana Muffin // $2.50</li>
-	<li></li>
+	<br>
 	<li>Corndog Muffin // $5.00</li>
-	<li></li>
+	<br>
 	<li>Double Chocolate Chip Muffin // $2.50</li>
-	<li></li>
+	<br>
 	<li>Zucchini Bread Bran Muffin // $4.50</li>
-	<li></li>
+	<br>
 	<li>Chocolate Chip Muffin // $1.50</li>
-	<li></li>
+	<br>
 	<li>Apple Coffee Cake Muffin // $3.00</li>
 </ul>
     
