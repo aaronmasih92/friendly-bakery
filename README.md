@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://materializecss.com/">
     <img src="http://materializecss.com/res/materialize.svg" width="150">
@@ -88,3 +89,7 @@ Check out the [CONTRIBUTING document](CONTRIBUTING.md) in the root of the reposi
 
 ## Copyright and license
 Code copyright 2017 Materialize. Code released under the MIT license.
+=======
+# friendly-bakery
+An imaginary bakery called "Ronnie's Sweet Spot" that incorporates a full fledged product line, history, email subscription, and a dash of humor.
+>>>>>>> 001e3d96ecf3e0c748e5a2ea69914dba14696197
