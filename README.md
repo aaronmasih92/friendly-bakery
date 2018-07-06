@@ -9,12 +9,12 @@ Lastly, if you have any questions comments you can write that on the contact pag
 
 
 # Technologies Utilizied
-Ruby
-Sinatra
-Materialize CSS
-JavaScript
-HTML
-Sendgrid API
+1. Ruby
+2. Sinatra
+3. Materialize CSS
+4. JavaScript
+5. HTML
+6. Sendgrid API
 
 
 
